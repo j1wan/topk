@@ -1,0 +1,9 @@
+Package: topk
+Type: Package
+Title: min/max/argmin/argmax k elements
+Version: 0.1.0
+Author: Jiwan Jeong
+Maintainer: Jiwan Jeong <jiwanjeong@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+LazyData: TRUE
